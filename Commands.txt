@@ -1,0 +1,11 @@
+1. To restart the apache server
+    sudo service apache2 restart
+2. curl install 
+    sudo apt-get install php5-curl
+3. to set env variables
+    sudo nano /etc/apache2/envvars
+4. installing apache server
+    sudo apt-get install apache2 libapache2-mod-php5
+    sudo apt-get install apache2 libapache2-mod-php5 mysql-server php5-mysql php5
+5.  Installing jdk
+sudo apt-get install openjdk-7-jre
